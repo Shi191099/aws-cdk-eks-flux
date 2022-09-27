@@ -18,4 +18,4 @@ spec:
     spec:
       containers:
       - name: awsome-app-flux
-        image: 1234567896.dkr.ecr.us-east-1.amazonaws.com/awsome-flux-example:latest
+        image: 505874605366.dkr.ecr.ap-southeast-2.amazonaws.com/jambaxi-eks:latest
