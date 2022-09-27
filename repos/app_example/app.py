@@ -1,4 +1,5 @@
 import cherrypy
+import aws_cdk as cdk
 
 class HelloWorld(object):
     @cherrypy.expose
